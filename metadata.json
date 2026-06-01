@@ -1,0 +1,6 @@
+{
+  "name": "TCL Cine+",
+  "description": "Aplicación de películas online en alta definición con subtítulos, compatible con Android TV / TCL TV y control remoto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
